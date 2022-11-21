@@ -1,0 +1,17 @@
+.card {
+    position: relative;
+    height: 400px;
+}
+
+
+.btn {
+    position: absolute;
+    width: 100%;
+    display: block;
+    text-align: center;
+    background-color: rgb(222, 175, 105);
+    font-size: 22px;
+    bottom: 0;
+    margin-top: 10px;
+    padding: 10px;
+}
